@@ -1,7 +1,7 @@
 # Senko-san-AI
 Senko-san AI, a cutting-edge 33 billion parameter large language model.
 
-this page contains version changelogs for Senko-san AI
+This page contains version changelogs for Senko-san AI.
 to visit the official site [click here](https://senkosan.love/ai.html)
 
 # Changelog
